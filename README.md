@@ -20,7 +20,7 @@ The detailed description of the rubric components is given below:
 4. UI & Navigation- aesthetics, leveraging platform features, ease of use.
 5. Presentation- Team presentation, Q&A, Clear separation of tasks done.
 
-## Project Name: ValentineDelGarage
+## Project Name: ValentinesGarageV2
 
 ## Contributors/Team Members
 
